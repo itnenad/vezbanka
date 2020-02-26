@@ -1,0 +1,2 @@
+# vezbanka
+REPO za vezbanje.
